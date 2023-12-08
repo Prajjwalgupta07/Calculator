@@ -1,0 +1,39 @@
+.container{
+    height: 480px;
+    width: 380px;
+    align-items: center;
+    margin-left: 550px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(3, 9, 97);
+    box-shadow: 10px 10px 30px black;
+}
+
+.btn{
+    margin:5px 5px;
+    width: 80px;
+    border-radius: 8px;
+}
+.row1 input{
+    width: 360px;
+    height: 60px;
+    margin: 10px 5px;
+    border-radius: 8px;
+    font-size: 40px;
+}
+
+.btn{
+    padding: 20px;
+    font-size: 20px;
+}
+.row{
+    justify-content: space-between;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: red;
+}
